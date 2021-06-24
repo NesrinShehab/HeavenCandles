@@ -1,0 +1,48 @@
+.my-background-color {
+    background-color: cornflowerblue;
+}
+.my-settings {
+    margin-top: 15px;
+}
+
+.my-margin {
+    margin-top: 50px;
+    padding: 0px;
+}
+
+h5 {
+    font-size: 25px;
+}
+
+.my-font {
+    font-size: 15px;
+}
+
+.my-sett {
+    display: inline;
+}
+#forward-btn {
+    width: 40px;
+}
+
+#for {
+    float: right;
+}
+
+.image-size {
+    width: 50px;
+    border-radius: 50%;
+}
+
+#rounded {
+    border-radius: 50%;
+
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.here {
+    display: inline;
+}
